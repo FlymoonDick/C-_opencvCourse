@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClInclude Include="sources_files\headler.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sources_files\webcam_erode_dilate.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
