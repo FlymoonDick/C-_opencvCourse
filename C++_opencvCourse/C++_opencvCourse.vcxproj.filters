@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sources_files\webcam_final.cpp">
+    <ClCompile Include="sources_files\web_cam_Colordetect.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

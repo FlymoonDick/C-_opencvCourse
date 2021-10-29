@@ -22,7 +22,8 @@ int main()
         Scalar upper(hmax, smax, vmax);
         inRange(imgHSV, lowwer, upper, mask);
         imshow("mask", mask);
-        imshow("imgHSV", imgHSV);
+        //imshow("imgHSV", imgHSV);
+        cout << hmin << "," << smin << "," << vmin << "," << hmax << "," << smax << "," << vmax << ","<<endl;
         waitKey(1);
     }
     return 0;

@@ -142,7 +142,7 @@
     <ClInclude Include="sources_files\headler.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sources_files\webcam_final.cpp" />
+    <ClCompile Include="sources_files\web_cam_Colordetect.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
